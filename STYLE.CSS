@@ -12,8 +12,8 @@ header.sticky {
   height: 58px;
 }
 #image-fluid {
-  width: 200px;
-  height: 200px;
+  width: 150px !important;
+  height: 150px !important;
   display: block;
   margin-top: 10px;
   margin-left: auto;
@@ -22,32 +22,33 @@ header.sticky {
   line-height: 3px;
 }
 #SERTIFIKAT {
-  font-size: 30px;
+  font-size: 20px !important;
   margin-top: -20px;
   margin-bottom: -50px;
 }
 #testimoni {
-  font-size: 30px;
+  font-size: 20px !important;
   margin-top: -20px;
   margin-bottom: -50px;
 }
 #produk {
-  font-size: 30px;
+  font-size: 20px !important;
   margin-top: -20px;
   margin-bottom: -50px;
 }
 #keunggulan {
-  font-size: 30px;
+  font-size: 20px !important;
   margin-top: -20px;
-  margin-bottom: -50px;
+  margin-bottom: -150px !important;
+  text-align: center !important;
 }
 #metode {
-  font-size: 30px;
+  font-size: 20px !important;
   margin-top: -20px;
   margin-bottom: -50px;
 }
 #modal {
-  font-size: 30px;
+  font-size: 20px !important;
   margin-top: -20px;
   margin-bottom: -50px;
 }
@@ -70,23 +71,23 @@ header.sticky {
 }
 
 #image-1 {
-  width: 800px;
+  width: 1000px !important;
   height: 300px;
 }
 #image-2 {
-  width: 800px;
+  width: 1000px !important;
   height: 300px;
 }
 #image-3 {
-  width: 800px;
+  width: 1000px !important;
   height: 300px;
 }
 #image-4 {
-  width: 800px;
+  width: 1000px !important;
   height: 300px;
 }
 #image-5 {
-  width: 800px;
+  width: 1000px !important;
   height: 300px;
 }
 #image-6 {
@@ -110,24 +111,24 @@ header.sticky {
   height: 300px;
 }
 #image-fluid {
-  width: 230px;
-  height: 200px;
+  width: 150px !important;
+  height: 150px !important;
   display: block;
   margin-top: -60px;
   margin-left: auto;
   margin-right: auto;
 }
 #image-fluid1 {
-  width: 350px;
-  height: 200px;
+  width: 230px !important;
+  height: 150px !important;
   display: block;
-  margin-top: -60px;
+  margin-top: -100px !important;
   margin-left: auto;
   margin-right: auto;
 }
 #image-fluid2 {
-  width: 270px;
-  height: 200px;
+  width: 190px !important;
+  height: 150px !important;
   display: block;
   margin-top: -80px;
   margin-left: auto;
@@ -210,27 +211,27 @@ header.sticky {
     margin-bottom: -50px;
   }
   #testimoni {
-    font-size: 50px;
+    font-size: 50px !important;
     margin-bottom: -50px;
   }
   #SERTIFIKAT {
-    font-size: 50px;
+    font-size: 50px !important;
     margin-bottom: -50px;
   }
   #produk {
-    font-size: 50px;
+    font-size: 50px !important;
     margin-bottom: -50px;
   }
   #keunggulan {
-    font-size: 50px;
+    font-size: 50px !important;
     margin-bottom: -50px;
   }
   #metode {
-    font-size: 50px;
+    font-size: 50px !important;
     margin-bottom: -50px;
   }
   #modal {
-    font-size: 50px;
+    font-size: 50px !important;
     margin-bottom: -50px;
   }
   #image {

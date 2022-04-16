@@ -6,7 +6,9 @@ header {
 header.sticky {
   background: #fff;
 }
-
+.cd {
+  margin-top: -1000px !important;
+}
 #image {
   width: 63px;
   height: 58px;
@@ -59,8 +61,7 @@ header.sticky {
 .lmao {
   margin-bottom: 100px;
 }
-
-#wppb-person-addon-img {
+o #wppb-person-addon-img {
   width: 200px;
   height: 200px;
 }

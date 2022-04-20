@@ -7,7 +7,7 @@ header.sticky {
   background: #fff;
 }
 .cd {
-  margin-top: -1000px !important;
+  margin-bottom: -200px;
 }
 #image {
   width: 63px;
@@ -156,16 +156,16 @@ o #wppb-person-addon-img {
   }
   #image-fluid {
     margin-top: -60px;
-    width: 280px;
-    height: 280px;
+    width: 280px !important;
+    height: 280px !important;
   }
   #image-fluid1 {
-    width: 500px;
-    height: 250px;
+    width: 500px !important;
+    height: 250px !important;
   }
   #image-fluid2 {
-    width: 400px;
-    height: 280px;
+    width: 400px !important;
+    height: 280px !important;
   }
   #image-1 {
     width: 900px;
